@@ -9,5 +9,5 @@ Achieved **98.3%** test accuracy.
 - **Prediction:** A script to make predictions on new leaf images, providing real-time disease detection.
 - **User Interface:** A simple web interface to upload leaf images and display the predicted disease, if any.
 ## Dataset
-The project utilizes a publicly available leaf disease dataset, which includes images of healthy and diseased leaves of various plants. The dataset is split into training, validation, and test sets to ensure the reliability of model evaluation.
+The project utilizes a publicly available leaf disease dataset from Kaggle, which includes images of healthy and diseased leaves of various plants. The dataset is split into training, validation, and test sets to ensure the reliability of model evaluation.
 **Dataset Link -** https://www.kaggle.com/emmarex/plantdisease
